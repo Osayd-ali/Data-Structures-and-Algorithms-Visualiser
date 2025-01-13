@@ -20,7 +20,7 @@
 The first thing to do is to clone the repository:
 
 ```sh
-$ git clone https://github.com/Bappy4u/algorithm-visualizer.git
+$ git clone https://github.com/Osayd-ali/Data-Structures-and-Algorithms-Visualiser.git
 ```
 Then open `index.html` in the browser. That's it
 
